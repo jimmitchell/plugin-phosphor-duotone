@@ -3,6 +3,7 @@
 	"title": "Phosphor Duotone Icons",
 	"description": "Adds Phosphor Duotone icons to your blog, available for use in templates",
 	"includes": [
+		"phosphor-duotone-preload.html",
 		"/css/phosphor-duotone-style.css"
 	]  
 }
